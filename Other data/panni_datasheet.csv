@@ -1,0 +1,9 @@
+user_utterances,intend,entity
+Hello how are you,greeting,None
+Play music,play_music,None
+What time?,query_time,None
+Tell me joke,request_joke,None
+Order pizza,order_food,pizza
+Goodbye,goodbye,None
+Thank you,thanks,None
+Welcome,acknowledge,None

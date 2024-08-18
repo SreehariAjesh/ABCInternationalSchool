@@ -7,5 +7,5 @@ Order a pizza,order_food,pizza,order pizza,Sorry I cannot do that
 Goodbye,goodbye,None,goodbye,Ok bye
 Thank you,thanks,None,thank you,Welcome but for what?
 Welcome,acknowledge,None,welcome,Welcome
-What is your name?,greeting,None,name,My name is Panni AI your personal assistant 
-What can you do?,greeting_query,None,can do,I can do many things
+What is your name?,greeting_name,Name,name,My name is Panni AI your personal assistant 
+What can you do?,greeting_self_feature,None,can do,I can do many things

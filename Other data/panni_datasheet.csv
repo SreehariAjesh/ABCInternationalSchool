@@ -5,7 +5,7 @@ What time is it?,query_time,None,what time,It is you time now!
 Tell me a joke.,request_joke,None,tell joke,I will let you know in a second
 Order a pizza,order_food,pizza,order pizza,Sorry I cannot do that 
 Goodbye,goodbye,None,goodbye,Ok bye
-Thank you,thanks,None,thank you,Welcome, but for what?
+Thank you,thanks,None,thank you,Welcome but for what?
 Welcome,acknowledge,None,welcome,Welcome
 What is your name?,greeting,None,name,My name is Panni AI your personal assistant 
 What can you do?,greeting_query,None,can do,I can do many things

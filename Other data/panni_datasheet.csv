@@ -1,9 +1,11 @@
-user_utterances,intend,entity, processed_utterances
-Hello how are you?,greeting,None,hello how you
-Can you play music?,play_music,None,play music
-What time is it?,query_time,None,what time
-Tell me a joke.,request_joke,None,tell joke
-Order a pizza,order_food,pizza,order pizza
-Goodbye,goodbye,None,goodbye
-Thank you,thanks,None,thank you
-Welcome,acknowledge,None,welcome
+user_utterances,intend,entity, processed_utterances, bot_responses
+Hello how are you?,greeting,None,hello how you, I am fine!
+Can you play music?,play_music,None,play music,Yes I can play music
+What time is it?,query_time,None,what time,It is you time now!
+Tell me a joke.,request_joke,None,tell joke,I will let you know in a second
+Order a pizza,order_food,pizza,order pizza,Sorry I cannot do that 
+Goodbye,goodbye,None,goodbye,Ok bye
+Thank you,thanks,None,thank you,Welcome, but for what?
+Welcome,acknowledge,None,welcome,Welcome
+What is your name?,greeting,None,name,My name is Panni AI your personal assistant 
+What can you do?,greeting_query,None,can do,I can do many things

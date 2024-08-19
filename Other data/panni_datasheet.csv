@@ -10,7 +10,7 @@ Welcome,acknowledge,None,welcome,Welcome
 What is your name?,greeting_name,Name,name,My name is Panni AI your personal assistant 
 What can you do?,greeting_self_feature,None,can do,I can do many things
 Good Morning,greeting, None,none, none
-See you later, farewell, None none, none
+See you later, farewell, None, none, none
 What is the weather like today?, weather, today none, none
 Set a 5minute timer.,set_timer, time:5 minutes, none, none
 Tell me about the latest news.,news, None none, none

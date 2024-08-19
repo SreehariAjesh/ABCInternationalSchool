@@ -16,4 +16,4 @@ Set a 5minute timer.,set_timer, time:5 minutes, none, none
 Tell me about the latest news.,news, None, none, none
 What is the capital of France?,general_knoledge, France, none, none
 How are you doing?, smalltalk, None, none, none
-Tell me a joke., request_joke, None, none, none
+Tell me a joke., request_joke2, None, none, none

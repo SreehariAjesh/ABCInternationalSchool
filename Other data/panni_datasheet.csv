@@ -1,4 +1,5 @@
 user_utterances,intend,entity, processed_utterances, bot_responses
+hello!, greeting1, None, hello, hi
 Hello how are you?,greeting,None,hello how you, I am fine!
 Can you play music?,play_music,None,play music,Yes I can play music
 What time is it?,query_time,None,what time,It is you time now!
@@ -16,4 +17,3 @@ Set a 5minute timer.,set_timer, time:5 minutes, none, none
 Tell me about the latest news.,news, None, none, none
 What is the capital of France?,general_knoledge, France, none, none
 How are you doing?, smalltalk, None, none, none
-Tell me a joke., request_joke2, None, none, none

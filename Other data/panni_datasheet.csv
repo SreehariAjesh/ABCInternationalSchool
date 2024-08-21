@@ -1,21 +1,38 @@
-user_utterances,intend,entity, processed_utterances, bot_responses
-hello!, greeting_1, None, hello, hi
-Hello how are you?,greeting,None,hello how you, I am fine!
+user_utterances,intend,entity,processed_utterances,bot_responses
+hello!,greeting_1,None,hello,hi
+Hello how are you?,greeting,None,hello how you,I am fine!
 Can you play music?,play_music,None,play music,Yes I can play music
-What time is it?,query_time,None,what time,It is you time now!
+What time is it?,query_time,None,what time,It is your time now!
 Tell me a joke.,request_joke,None,tell joke,I will let you know in a second
-Order a pizza,order_food,pizza,order pizza,Sorry I cannot do that 
+Order a pizza,order_food,pizza,order pizza,Sorry I cannot do that
 Goodbye,farewell,None,goodbye,Ok bye
-Thank you,appreciation ,None,thank you,Welcome but for what?
+Thank you,appreciation,None,thank you,Welcome but for what?
 Welcome,acknowledge,None,welcome,Welcome
-What is your name?,greeting_name,Name,name,My name is Panni AI your personal assistant 
+What is your name?,greeting_name,Name,name,My name is Panni AI your personal assistant
 What can you do?,greeting_self_feature,None,can do,I can do many things
-Good Morning,greeting_2, None,none, none
-See you later, farewell_1, None, none, none
-What is the weather like today?, weather, today, none, none
-Set a 5minute timer.,set_timer, time:5 minutes, none, none
-Tell me about the latest news.,news, None, none, none
-What is the capital of France?,general_knoledge, France, none, none
-How are you doing?, smalltalk, None, none, none
-Bye, farewell_2, None, none, none
-Hi!, greeting_3, None, none, none
+Good Morning,greeting_2,None,good morning,Good morning! How can I assist you?
+See you later,farewell_1,None,see you later,Goodbye! Talk to you soon.
+What is the weather like today?,weather,today,weather today,The weather is currently [weather status].
+Set a 5-minute timer.,set_timer,time:5 minutes,set 5 minute timer,Timer set for 5 minutes.
+Tell me about the latest news.,news,None,latest news,Here are the top headlines for today.
+What is the capital of France?,general_knowledge,France,capital france,The capital of France is Paris.
+How are you doing?,smalltalk,None,how you doing,I’m just a bunch of code, but I’m doing great!
+Bye,farewell_2,None,bye,Goodbye! Have a great day.
+Hi!,greeting_3,None,hi,Hello! How can I help you today?
+What's up?,smalltalk_1,None,whats up,Not much, just here to assist you!
+Help me out.,help_request,None,help out,Sure! What do you need help with?
+I'm bored.,request_joke_1,None,bored,How about I tell you a joke?
+Can you set an alarm?,set_alarm,None,set alarm,I can’t set an alarm, but I can remind you of things.
+Tell me a fun fact.,fun_fact,None,fun fact,Did you know that honey never spoils?
+Play a game with me.,play_game,None,play game,I can suggest some online games if you like.
+Can you translate something?,translate_request,None,translate something,What would you like me to translate?
+Remind me to take my medicine.,set_reminder,medicine,remind take medicine,I will remind you to take your medicine.
+Can you read me a story?,request_story,None,read story,Once upon a time…
+Turn on the lights.,control_device,lights,turn lights on,Sorry, I can’t control devices.
+Open the browser.,open_browser,None,open browser,Opening the browser for you.
+Tell me something interesting.,smalltalk_2,None,something interesting,Did you know that the Eiffel Tower can be 15 cm taller during the summer?
+Call my friend.,call_request,friend,call friend,I can’t make calls, but I can remind you to do so.
+Sing a song.,request_music,None,sing song,Sorry, I’m a bit shy for that!
+What's the weather tomorrow?,weather_1,tomorrow,weather tomorrow,The weather tomorrow is expected to be [forecast].
+Send an email.,email_request,None,send email,I’m unable to send emails, but I can help you draft one.
+Can you cook?,general_knowledge,cook,cook,No, but I can help you find a recipe!

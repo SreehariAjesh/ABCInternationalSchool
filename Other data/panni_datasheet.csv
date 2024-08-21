@@ -28,7 +28,7 @@ Play a game with me.,play_game,None,play game,I can suggest some online games if
 Can you translate something?,translate_request,None,translate something,What would you like me to translate?
 Remind me to take my medicine.,set_reminder,medicine,remind take medicine,I will remind you to take your medicine.
 Can you read me a story?,request_story,None,read story,Once upon a time…
-Turn on the lights.,control_device,lights,turn lights on,Sorry, I can’t control devices.
+Turn on the lights.,control_device,lights,turn lights on,Sorry I can’t control devices.
 Open the browser.,open_browser,None,open browser,Opening the browser for you.
 Tell me something interesting.,smalltalk_2,None,something interesting,Did you know that the Eiffel Tower can be 15 cm taller during the summer?
 Call my friend.,call_request,friend,call friend,I can’t make calls, but I can remind you to do so.

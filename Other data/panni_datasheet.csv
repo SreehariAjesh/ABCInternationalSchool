@@ -32,7 +32,7 @@ Turn on the lights.,control_device,lights,turn lights on,Sorry I can’t control
 Open the browser.,open_browser,None,open browser,Opening the browser for you.
 Tell me something interesting.,smalltalk_2,None,something interesting,Did you know that the Eiffel Tower can be 15 cm taller during the summer?
 Call my friend.,call_request,friend,call friend,I can’t make calls but I can remind you to do so.
-Sing a song.,request_music,None,sing song,Sorry, I’m a bit shy for that!
+Sing a song.,request_music,None,sing song,Sorry I’m a bit shy for that!
 What's the weather tomorrow?,weather_1,tomorrow,weather tomorrow,The weather tomorrow is expected to be [forecast].
 Send an email.,email_request,None,send email,I’m unable to send emails but I can help you draft one.
 Can you cook?,general_knowledge,cook,cook,No but I can help you find a recipe!

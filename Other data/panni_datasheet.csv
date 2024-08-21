@@ -16,13 +16,13 @@ What is the weather like today?,weather,today,weather today,The weather is curre
 Set a 5-minute timer.,set_timer,time:5 minutes,set 5 minute timer,Timer set for 5 minutes.
 Tell me about the latest news.,news,None,latest news,Here are the top headlines for today.
 What is the capital of France?,general_knowledge,France,capital france,The capital of France is Paris.
-How are you doing?,smalltalk,None,how you doing,I’m just a bunch of code, but I’m doing great!
+How are you doing?,smalltalk,None,how you doing,I’m just a bunch of code but I’m doing great!
 Bye,farewell_2,None,bye,Goodbye! Have a great day.
 Hi!,greeting_3,None,hi,Hello! How can I help you today?
-What's up?,smalltalk_1,None,whats up,Not much, just here to assist you!
+What's up?,smalltalk_1,None,whats up,Not much just here to assist you!
 Help me out.,help_request,None,help out,Sure! What do you need help with?
 I'm bored.,request_joke_1,None,bored,How about I tell you a joke?
-Can you set an alarm?,set_alarm,None,set alarm,I can’t set an alarm, but I can remind you of things.
+Can you set an alarm?,set_alarm,None,set alarm,I can’t set an alarm but I can remind you of things.
 Tell me a fun fact.,fun_fact,None,fun fact,Did you know that honey never spoils?
 Play a game with me.,play_game,None,play game,I can suggest some online games if you like.
 Can you translate something?,translate_request,None,translate something,What would you like me to translate?

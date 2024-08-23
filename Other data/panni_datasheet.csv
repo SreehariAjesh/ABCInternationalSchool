@@ -39,7 +39,7 @@ Can you cook?,general_knowledge,cook,cook,No but I can help you find a recipe!
 What's your favorite color?,smalltalk_favorites,color,favorite color,I don’t have a favorite color but I think blue is calming.
 Who is the President of the USA?,general_knowledge,USA,president usa,The current President of the USA is Joe Biden.
 Can you drive a car?,smalltalk_ability,car,drive car,I can’t drive but I can give you driving directions.
-How old are you?,smalltalk_age,None,how old,I don’t age like humans do!
+How old are you?,smalltalk_age,None,how old,I do not age like humans do!
 What's the meaning of life?,philosophy,None,meaning life,The meaning of life is a deep question, what do you think?
 Show me a picture of a cat.,request_image,cat,picture cat,Here’s a cute picture of a cat [image link].
 What does AI stand for?,general_knowledge,AI,AI stand for,AI stands for Artificial Intelligence.

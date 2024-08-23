@@ -1,5 +1,5 @@
 user_utterances,intend,entity,processed_utterances,bot_responses
-hello!,greeting_1,None,hello,hi
+hello!,greeting,None,hello,hi
 Hello how are you?,greeting,None,hello how you,I am fine!
 Can you play music?,play_music,None,play music,Yes I can play music
 What time is it?,query_time,None,what time,It is your time now!
@@ -10,18 +10,18 @@ Thank you,appreciation,None,thank you,Welcome but for what?
 Welcome,acknowledge,None,welcome,Welcome
 What is your name?,greeting_name,Name,name,My name is Panni AI your personal assistant
 What can you do?,greeting_self_feature,None,can do,I can do many things
-Good Morning,greeting_2,None,good morning,Good morning! How can I assist you?
-See you later,farewell_1,None,see you later,Goodbye! Talk to you soon.
+Good Morning,greeting,None,good morning,Good morning! How can I assist you?
+See you later,farewell,None,see you later,Goodbye! Talk to you soon.
 What is the weather like today?,weather,today,weather today,The weather is currently [weather status].
 Set a 5-minute timer.,set_timer,time:5 minutes,set 5 minute timer,Timer set for 5 minutes.
 Tell me about the latest news.,news,None,latest news,Here are the top headlines for today.
 What is the capital of France?,general_knowledge,France,capital france,The capital of France is Paris.
 How are you doing?,smalltalk,None,how you doing,I’m just a bunch of code but I’m doing great!
-Bye,farewell_2,None,bye,Goodbye! Have a great day.
-Hi!,greeting_3,None,hi,Hello! How can I help you today?
-What's up?,smalltalk_1,None,whats up,Not much just here to assist you!
+Bye,farewell,None,bye,Goodbye! Have a great day.
+Hi!,greeting,None,hi,Hello! How can I help you today?
+What's up?,smalltalk,None,whats up,Not much just here to assist you!
 Help me out.,help_request,None,help out,Sure! What do you need help with?
-I'm bored.,request_joke_1,None,bored,How about I tell you a joke?
+I'm bored.,request_joke,None,bored,How about I tell you a joke?
 Can you set an alarm?,set_alarm,None,set alarm,I can’t set an alarm but I can remind you of things.
 Tell me a fun fact.,fun_fact,None,fun fact,Did you know that honey never spoils?
 Play a game with me.,play_game,None,play game,I can suggest some online games if you like.
@@ -36,3 +36,51 @@ Sing a song.,request_music,None,sing song,Sorry I’m a bit shy for that!
 What's the weather tomorrow?,weather_1,tomorrow,weather tomorrow,The weather tomorrow is expected to be [forecast].
 Send an email.,email_request,None,send email,I’m unable to send emails but I can help you draft one.
 Can you cook?,general_knowledge,cook,cook,No but I can help you find a recipe!
+What's your favorite color?,smalltalk_favorites,color,favorite color,I don’t have a favorite color but I think blue is calming.
+Who is the President of the USA?,general_knowledge,USA,president usa,The current President of the USA is Joe Biden.
+Can you drive a car?,smalltalk_ability,car,drive car,I can’t drive but I can give you driving directions.
+How old are you?,smalltalk_age,None,how old,I don’t age like humans do!
+What's the meaning of life?,philosophy,None,meaning life,The meaning of life is a deep question, what do you think?
+Show me a picture of a cat.,request_image,cat,picture cat,Here’s a cute picture of a cat [image link].
+What does AI stand for?,general_knowledge,AI,AI stand for,AI stands for Artificial Intelligence.
+Can you swim?,smalltalk_ability,swim,swim,I can’t swim but I can help you learn.
+How far is the moon?,general_knowledge,moon,how far moon,The moon is about 384,400 km away from Earth.
+Tell me a riddle.,request_riddle,None,tell riddle,What has keys but can’t open locks? A piano.
+Turn off the music.,control_device,music,turn music off,I can’t turn off the music, but I can suggest a quieter playlist.
+Do you like pizza?,smalltalk_favorites,pizza,like pizza,I think pizza is a popular choice among humans!
+What's the time in Tokyo?,query_time,Tokyo,time Tokyo,The current time in Tokyo is [time].
+What does this word mean?,define_word,word,this word mean,Please tell me the word you'd like to define.
+How tall is the Eiffel Tower?,general_knowledge,Eiffel Tower,tall Eiffel Tower,The Eiffel Tower is about 300 meters tall.
+What do you think about robots?,opinion_robots,None,think robots,Robots are fascinating and helpful in many ways!
+How do you say hello in Spanish?,translate_request,hello,hello in Spanish,"Hello" in Spanish is "Hola."
+Tell me a motivational quote.,request_quote,None,motivational quote,Here’s one: “The only way to do great work is to love what you do.” – Steve Jobs.
+Can you teach me something?,help_request_teach,None,teach me,Of course! What would you like to learn about?
+What's the population of India?,general_knowledge,India,population India,India’s population is over 1.4 billion.
+Can you be my friend?,smalltalk_relationship,None,be my friend,I’m here to assist you anytime you need me!
+Give me a random number.,random_number,None,random number,Here’s a random number: [number].
+What's the weather in New York?,weather_2,New York,weather New York,The weather in New York is [weather status].
+Do you like dogs?,smalltalk_favorites,dogs,like dogs,I think dogs are great companions!
+How fast is the speed of light?,general_knowledge,speed of light,speed light,The speed of light is about 299,792 km per second.
+Who invented the telephone?,general_knowledge,telephone,invented telephone,The telephone was invented by Alexander Graham Bell.
+Can you recommend a book?,recommendation,book,recommend book,How about reading “To Kill a Mockingbird” by Harper Lee?
+What should I eat for dinner?,recommendation_food,dinner,eat dinner,How about a healthy salad or some grilled chicken?
+Are you real?,smalltalk_existence,None,are you real,I’m as real as the code that created me!
+What's your purpose?,smalltalk_purpose,None,your purpose,My purpose is to assist you in any way I can.
+How long is a day on Mars?,general_knowledge,Mars,day Mars,A day on Mars is about 24.6 hours.
+Who is your creator?,smalltalk_creator,None,who created you,I was created by a team of talented developers at OpenAI.
+What's the square root of 64?,math_question,64,square root 64,The square root of 64 is 8.
+Can you solve this math problem?,math_request,problem,solve math problem,Please tell me the math problem you need help with.
+What's the tallest mountain in the world?,general_knowledge,mountain,tallest mountain,The tallest mountain in the world is Mount Everest.
+Tell me the latest sports news.,sports_news,None,latest sports news,Here are the latest sports headlines: [headlines].
+Can you speak French?,language_ability,French,speak French,I can translate to French if you’d like!
+How do I bake a cake?,help_request_cooking,cake,bake cake,Here’s a simple recipe for baking a cake: [recipe link].
+How long will it take to get to the airport?,query_travel_time,airport,get airport,It depends on your current location. Can you tell me where you are?
+What’s the best movie of all time?,recommendation_movie,movie,best movie,Many consider “The Godfather” to be one of the best movies of all time.
+Who is the richest person in the world?,general_knowledge,richest person,richest person world,The richest person in the world is [name].
+Can you give me directions to the nearest gas station?,directions_request,gas station,directions gas station,I can give you general directions, but I recommend using a map app for the best results.
+What is your gender?,smalltalk_gender,None,your gender,I don’t have a gender, I’m just an AI.
+Can you send a text message?,message_request,None,send text message,I can’t send messages but I can help you draft one.
+What is 10 multiplied by 20?,math_question,multiplication,10 multiplied by 20,10 multiplied by 20 is 200.
+Can you help me study?,help_request_study,None,help study,I’d be happy to help! What subject are you studying?
+What's your favorite animal?,smalltalk_favorites,animal,favorite animal,I think dolphins are pretty amazing!
+How do I fix a flat tire?,help_request_fix,flat tire,fix flat tire,Here’s a step-by-step guide to fixing a flat tire: [guide link].

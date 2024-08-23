@@ -52,7 +52,7 @@ What's the time in Tokyo?,query_time,Tokyo,time Tokyo,The current time in Tokyo 
 What does this word mean?,define_word,word,this word mean,Please tell me the word you'd like to define.
 How tall is the Eiffel Tower?,general_knowledge,Eiffel Tower,tall Eiffel Tower,The Eiffel Tower is about 300 meters tall.
 What do you think about robots?,opinion_robots,None,think robots,Robots are fascinating and helpful in many ways!
-How do you say hello in Spanish?,translate_request,hello,hello in Spanish,"Hello" in Spanish is "Hola."
+How do you say hello in Spanish?,translate_request,hello,hello in Spanish,Hello in Spanish is Hola.
 Tell me a motivational quote.,request_quote,None,motivational quote,Here’s one: “The only way to do great work is to love what you do.” – Steve Jobs.
 Can you teach me something?,help_request_teach,None,teach me,Of course! What would you like to learn about?
 What's the population of India?,general_knowledge,India,population India,India’s population is over 1.4 billion.

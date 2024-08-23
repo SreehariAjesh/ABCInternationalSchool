@@ -78,7 +78,7 @@ How long will it take to get to the airport?,query_travel_time,airport,get airpo
 What’s the best movie of all time?,recommendation_movie,movie,best movie,Many consider The Godfather to be one of the best movies of all time.
 Who is the richest person in the world?,general_knowledge,richest person,richest person world,The richest person in the world is [name].
 Can you give me directions to the nearest gas station?,directions_request,gas station,directions gas station,I can give you general directions but I recommend using a map app for the best results.
-What is your gender?,smalltalk_gender,None,your gender,I don’t have a gender, Im just an AI.
+What is your gender?,smalltalk_gender,None,your gender,I do not have a gender, Im just an AI.
 Can you send a text message?,message_request,None,send text message,I cant send messages but I can help you draft one.
 What is 10 multiplied by 20?,math_question,multiplication,10 multiplied by 20,10 multiplied by 20 is 200.
 Can you help me study?,help_request_study,None,help study,Id be happy to help! What subject are you studying?

@@ -377,3 +377,97 @@ What’s the most famous painting?,general_knowledge,painting,most famous painti
 Can you help me find a book?,help_request_book,book,help find book,Of course What genre are you interested in
 How do you say no in German?,translate_request,German,no in German,No in German is Nein
 What’s the smallest country?,general_knowledge,country,smallest country,The smallest country in the world is Vatican City
+Can you help me find a restaurant?,help_request_restaurant,restaurant,help find restaurant,Of course What type of cuisine are you looking for
+How do you say water in Spanish?,translate_request,Spanish,water in Spanish,Water in Spanish is Agua
+What’s the highest mountain?,general_knowledge,mountain,highest mountain,The highest mountain in the world is Mount Everest
+Can you help me with a school project?,help_request_project,school project,help with school project,Of course What’s the project about
+How do you say good morning in Spanish?,translate_request,Spanish,good morning in Spanish,Good morning in Spanish is Buenos días
+What’s the largest city?,general_knowledge,city,largest city,The largest city in the world by population is Tokyo
+Can you help me choose a vacation spot?,help_request_vacation,vacation,help choose vacation spot,Of course What kind of vacation are you looking for
+How do you say please in French?,translate_request,French,please in French,Please in French is S'il vous plaît
+What’s the smallest planet?,general_knowledge,planet,smallest planet,The smallest planet in our solar system is Mercury
+Can you help me with a recipe?,help_request_recipe,recipe,help with recipe,Of course What would you like to cook
+How do you say house in German?,translate_request,German,house in German,House in German is Haus
+What’s the coldest place on Earth?,general_knowledge,place,coldest place on Earth,The coldest place on Earth is Antarctica
+Can you help me organize my day?,help_request_schedule,day,help organize day,Of course What do you need help with
+How do you say car in Spanish?,translate_request,Spanish,car in Spanish,Car in Spanish is Coche
+What’s the tallest tree?,general_knowledge,tree,tallest tree,The tallest tree in the world is a coast redwood named Hyperion
+Can you help me plan a trip?,help_request_trip,trip,help plan trip,Of course Where are you planning to go
+How do you say father in French?,translate_request,French,father in French,Father in French is Père
+What’s the most spoken language in the world?,general_knowledge,language,most spoken language world,The most spoken language in the world is English
+Can you help me with a quiz?,help_request_quiz,quiz,help with quiz,Of course What’s the quiz about
+How do you say bicycle in Spanish?,translate_request,Spanish,bicycle in Spanish,Bicycle in Spanish is Bicicleta
+What’s the deepest ocean?,general_knowledge,ocean,deepest ocean,The deepest ocean in the world is the Pacific Ocean
+Can you help me with my homework?,help_request_homework,homework,help with homework,Of course What subject do you need help with
+How do you say good luck in French?,translate_request,French,good luck in French,Good luck in French is Bonne chance
+What’s the biggest country by area?,general_knowledge,country,biggest country by area,The biggest country by area is Russia
+Can you help me choose a movie?,help_request_movie,movie,help choose movie,Of course What genre are you in the mood for
+How do you say library in Spanish?,translate_request,Spanish,library in Spanish,Library in Spanish is Biblioteca
+What’s the oldest city?,general_knowledge,city,oldest city,The oldest continuously inhabited city is Damascus in Syria
+Can you help me pick a gift?,help_request_gift,gift,help pick gift,Of course Who is the gift for
+How do you say friend in Spanish?,translate_request,Spanish,friend in Spanish,Friend in Spanish is Amigo
+What’s the most visited city?,general_knowledge,city,most visited city,The most visited city in the world is Bangkok
+Can you help me with my schedule?,help_request_schedule,schedule,help with schedule,Of course What do you need help organizing
+How do you say teacher in French?,translate_request,French,teacher in French,Teacher in French is Professeur
+What’s the biggest island?,general_knowledge,island,biggest island,The biggest island in the world is Greenland
+Can you help me with a resume?,help_request_resume,resume,help with resume,Of course What job are you applying for
+How do you say bathroom in Spanish?,translate_request,Spanish,bathroom in Spanish,Bathroom in Spanish is Baño
+What’s the largest mammal?,general_knowledge,mammal,largest mammal,The largest mammal is the blue whale
+Can you help me find a good podcast?,help_request_podcast,podcast,help find good podcast,Of course What topic interests you
+How do you say food in French?,translate_request,French,food in French,Food in French is Nourriture
+What’s the tallest building in the world?,general_knowledge,building,tallest building world,The tallest building in the world is the Burj Khalifa
+Can you help me plan a party?,help_request_party,party,help plan party,Of course What kind of party are you planning
+How do you say night in Spanish?,translate_request,Spanish,night in Spanish,Night in Spanish is Noche
+What’s the oldest book?,general_knowledge,book,oldest book,One of the oldest known books is The Epic of Gilgamesh
+Can you help me with my essay?,help_request_essay,essay,help with essay,Of course What’s your essay topic
+How do you say train in French?,translate_request,French,train in French,Train in French is Train
+What’s the largest continent?,general_knowledge,continent,largest continent,The largest continent by area is Asia
+Can you help me choose a movie to watch?,help_request_movie,movie,help choose movie watch,Of course What type of movie are you interested in
+How do you say computer in French?,translate_request,French,computer in French,Computer in French is Ordinateur
+What’s the deepest lake?,general_knowledge,lake,deepest lake,The deepest lake in the world is Lake Baikal in Russia
+Can you help me write an email?,help_request_email,email,help write email,Of course What do you need to say in your email
+How do you say dog in French?,translate_request,French,dog in French,Dog in French is Chien
+What’s the most expensive car?,general_knowledge,car,most expensive car,The most expensive car ever sold is a 1962 Ferrari 250 GTO
+Can you help me organize my notes?,help_request_notes,notes,help organize notes,Of course How would you like to organize them
+How do you say brother in French?,translate_request,French,brother in French,Brother in French is Frère
+What’s the largest ocean?,general_knowledge,ocean,largest ocean,The largest ocean in the world is the Pacific Ocean
+Can you help me pick a restaurant?,help_request_restaurant,restaurant,help pick restaurant,Of course What type of food are you craving
+How do you say love in Spanish?,translate_request,Spanish,love in Spanish,Love in Spanish is Amor
+What’s the smallest continent?,general_knowledge,continent,smallest continent,The smallest continent by area is Australia
+Can you help me write a story?,help_request_story,story,help write story,Of course What’s your story about
+How do you say happy in French?,translate_request,French,happy in French,Happy in French is Heureux
+What’s the longest river in the world?,general_knowledge,river,longest river world,The longest river in the world is the Nile River
+Can you help me with a project?,help_request_project,project,help with project,Of course What’s your project about
+How do you say cat in Spanish?,translate_request,Spanish,cat in Spanish,Cat in Spanish is Gato
+What’s the most expensive painting?,general_knowledge,painting,most expensive painting,The most expensive painting ever sold is Leonardo da Vinci’s Salvator Mundi
+Can you help me with my schedule?,help_request_schedule,schedule,help with schedule,Of course What do you need help organizing
+How do you say table in French?,translate_request,French,table in French,Table in French is Table
+What’s the highest mountain in the world?,general_knowledge,mountain,highest mountain world,The highest mountain in the world is Mount Everest
+Can you help me pick a vacation spot?,help_request_vacation,vacation,help pick vacation spot,Of course What kind of vacation are you looking for
+How do you say car in French?,translate_request,French,car in French,Car in French is Voiture
+What’s the hottest planet?,general_knowledge,planet,hottest planet,The hottest planet in our solar system is Venus
+Can you help me plan a trip?,help_request_trip,trip,help plan trip,Of course Where would you like to go
+How do you say sun in French?,translate_request,French,sun in French,Sun in French is Soleil
+What’s the longest word?,general_knowledge,word,longest word,The longest word in the English language is Pneumonoultramicroscopicsilicovolcanoconiosis
+Can you help me write a letter?,help_request_letter,letter,help write letter,Of course What’s the letter about
+How do you say goodbye in French?,translate_request,French,goodbye in French,Goodbye in French is Au revoir
+What’s the coldest planet?,general_knowledge,planet,coldest planet,The coldest planet in our solar system is Neptune
+Can you help me with my resume?,help_request_resume,resume,help with resume,Of course What job are you applying for
+How do you say hello in German?,translate_request,German,hello in German,Hello in German is Hallo
+What’s the most dangerous place to live?,general_knowledge,place,most dangerous place,The most dangerous place to live due to natural disasters is the Pacific Ring of Fire
+Can you help me find a good book?,help_request_book,book,help find good book,Of course What genre are you interested in
+How do you say help in French?,translate_request,French,help in French,Help in French is Aide
+What’s the richest country?,general_knowledge,country,richest country,The richest country by GDP per capita is Luxembourg
+Can you help me plan an event?,help_request_event,event,help plan event,Of course What kind of event are you planning
+How do you say water in French?,translate_request,French,water in French,Water in French is Eau
+What’s the tallest waterfall?,general_knowledge,waterfall,tallest waterfall,The tallest waterfall in the world is Angel Falls in Venezuela
+Can you help me find a new hobby?,help_request_hobby,hobby,help find new hobby,Of course What are you interested in
+How do you say bird in Spanish?,translate_request,Spanish,bird in Spanish,Bird in Spanish is Pájaro
+What’s the oldest language?,general_knowledge,language,oldest language,The oldest known language is Sumerian
+Can you help me with my assignment?,help_request_assignment,assignment,help with assignment,Of course What’s your assignment about
+How do you say school in French?,translate_request,French,school in French,School in French is École
+What’s the most popular name?,general_knowledge,name,most popular name,The most popular name in the world is Muhammad
+Can you help me organize my notes?,help_request_notes,notes,help organize notes,Of course How would you like to organize them
+How do you say coffee in Spanish?,translate_request,Spanish,coffee in Spanish,Coffee in Spanish is Café
+What’s the largest desert?,general_knowledge,desert,largest desert,The largest desert in the world is the Antarctic Desert
+Can you help me with a presentation?,help_request_presentation,presentation,help with presentation,Of course What’s the presentation about

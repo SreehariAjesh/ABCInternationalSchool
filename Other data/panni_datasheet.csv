@@ -174,3 +174,98 @@ What is the biggest country in the world?,general_knowledge,country,biggest coun
 How do you say please in French?,translate_request,French,please in French,Please in French is S’il vous plaît
 What is the best way to learn?,help_request_learning,learning,best way to learn,Practice consistently ask questions and review your progress
 Can you help me with my schedule?,help_request_schedule,schedule,help with schedule,I’d be happy to What do you need to schedule
+What’s your favorite number?,smalltalk_favorites,number,favorite number,I don’t have a favorite number but many people like 7
+Can you do a magic trick?,smalltalk_ability,magic,do magic trick,I can’t do magic but I can amaze you with some facts
+How do you say friend in French?,translate_request,French,friend in French,Friend in French is Ami
+Can you give me advice?,help_request_advice,None,give advice,Sure What do you need advice on
+What’s the capital of India?,general_knowledge,India,capital India,The capital of India is New Delhi
+Can you play chess?,smalltalk_ability,chess,play chess,I can’t play chess but I can help you learn it
+How do you say goodbye in Spanish?,translate_request,Spanish,goodbye in Spanish,Goodbye in Spanish is Adiós
+What’s the population of the world?,general_knowledge,population,population of world,The world population is over 7.9 billion people
+Can you solve this equation?,math_request,equation,solve equation,Sure Please tell me the equation you need help with
+What’s your favorite season?,smalltalk_favorites,season,favorite season,I don’t experience seasons but many people enjoy autumn
+How do I get to the airport?,directions_request,airport,get to airport,I recommend using a map app to find the best route to the airport
+Can you tell me a secret?,smalltalk,None,tell secret,I’m great at keeping secrets but I don’t have any of my own
+How do you say happy in German?,translate_request,German,happy in German,Happy in German is Glücklich
+What’s the largest country by population?,general_knowledge,country,largest country by population,China has the largest population in the world
+Can you help me with a riddle?,help_request_riddle,None,help with riddle,I’d love to What’s the riddle
+What’s your favorite place to visit?,smalltalk_favorites,place,favorite place to visit,I don’t travel but I’ve heard Paris is lovely
+How do you say good morning in Spanish?,translate_request,Spanish,good morning in Spanish,Good morning in Spanish is Buenos días
+What’s the tallest mountain?,general_knowledge,mountain,tallest mountain,The tallest mountain in the world is Mount Everest
+Can you help me study for a test?,help_request_study,test,help study for test,Of course What subject is the test on
+How do you say love in Italian?,translate_request,Italian,love in Italian,Love in Italian is Amore
+What’s the largest desert?,general_knowledge,desert,largest desert,The largest desert is the Antarctic Desert
+Can you help me find a recipe?,help_request_recipe,recipe,help find recipe,I’d be happy to What would you like to cook
+How do you say cat in Spanish?,translate_request,Spanish,cat in Spanish,Cat in Spanish is Gato
+What’s your favorite song?,smalltalk_favorites,song,favorite song,I don’t listen to music but many people love Imagine by John Lennon
+How do you say thank you in German?,translate_request,German,thank you in German,Thank you in German is Danke
+What’s the deepest ocean?,general_knowledge,ocean,deepest ocean,The deepest ocean is the Pacific Ocean
+Can you help me with a science project?,help_request_project,science,help with science project,I’d love to help What’s the project about
+What’s the fastest land animal?,general_knowledge,animal,fastest land animal,The fastest land animal is the cheetah
+How do you say yes in French?,translate_request,French,yes in French,Yes in French is Oui
+Can you help me plan a party?,help_request_party,party,help plan party,Of course What kind of party are you planning
+What’s the capital of Canada?,general_knowledge,Canada,capital Canada,The capital of Canada is Ottawa
+Can you speak Spanish?,language_ability,Spanish,speak Spanish,I can help you with translations in Spanish
+How do you say dog in French?,translate_request,French,dog in French,Dog in French is Chien
+What’s the smallest country?,general_knowledge,country,smallest country,The smallest country by area is Vatican City
+Can you recommend a movie?,recommendation,movie,recommend movie,How about watching The Shawshank Redemption
+How do you say hello in German?,translate_request,German,hello in German,Hello in German is Hallo
+What’s the longest river?,general_knowledge,river,longest river,The longest river in the world is the Nile
+Can you help me with my essay?,help_request_study,essay,help with essay,I’d be happy to What is your essay about
+What’s your favorite quote?,smalltalk_favorites,quote,favorite quote,I think the quote “Stay positive work hard and make it happen” is very inspiring
+How do you say please in Spanish?,translate_request,Spanish,please in Spanish,Please in Spanish is Por favor
+What’s the most popular sport?,general_knowledge,sport,most popular sport,The most popular sport in the world is soccer
+Can you help me make a decision?,help_request_decision,decision,help make decision,Sure I can help What do you need to decide
+How do you say yes in Spanish?,translate_request,Spanish,yes in Spanish,Yes in Spanish is Sí
+What’s the largest planet?,general_knowledge,planet,largest planet,The largest planet in our solar system is Jupiter
+Can you help me organize my day?,help_request_schedule,day,help organize day,Of course What tasks do you need to organize
+How do you say water in French?,translate_request,French,water in French,Water in French is Eau
+What’s the smallest continent?,general_knowledge,continent,smallest continent,The smallest continent by land area is Australia
+Can you tell me a story?,request_story,None,tell story,Once upon a time there was a magical kingdom
+How do you say I love you in French?,translate_request,French,I love you in French,I love you in French is Je t’aime
+What’s the tallest tree?,general_knowledge,tree,tallest tree,The tallest tree in the world is a coast redwood named Hyperion
+Can you help me write a poem?,help_request_poetry,poem,help write poem,I’d love to help What’s the theme of your poem
+How do you say goodbye in Italian?,translate_request,Italian,goodbye in Italian,Goodbye in Italian is Arrivederci
+What’s the largest mammal?,general_knowledge,mammal,largest mammal,The largest mammal is the blue whale
+Can you help me practice a speech?,help_request_speech,speech,help practice speech,I’d be happy to help What is your speech about
+How do you say happy birthday in Spanish?,translate_request,Spanish,happy birthday in Spanish,Happy birthday in Spanish is Feliz cumpleaños
+What’s the most visited city?,general_knowledge,city,most visited city,The most visited city in the world is Bangkok
+Can you help me with my CV?,help_request_job,CV,help with CV,I’d be happy to What job are you applying for
+How do you say mother in French?,translate_request,French,mother in French,Mother in French is Mère
+What’s the hottest planet?,general_knowledge,planet,hottest planet,The hottest planet in our solar system is Venus
+Can you recommend a restaurant?,recommendation,restaurant,recommend restaurant,How about trying an Italian restaurant nearby
+How do you say good night in Spanish?,translate_request,Spanish,good night in Spanish,Good night in Spanish is Buenas noches
+What’s the most expensive city to live in?,general_knowledge,city,most expensive city to live in,Hong Kong is often ranked as one of the most expensive cities to live in
+Can you help me with a speech?,help_request_speech,speech,help with speech,I’d love to help What’s the topic of your speech
+How do you say sister in Spanish?,translate_request,Spanish,sister in Spanish,Sister in Spanish is Hermana
+What’s the largest volcano?,general_knowledge,volcano,largest volcano,The largest volcano on Earth is Mauna Loa in Hawaii
+Can you help me with directions?,directions_request,None,help with directions,Of course Where do you need to go
+How do you say teacher in French?,translate_request,French,teacher in French,Teacher in French is Professeur
+What’s the most common language?,general_knowledge,language,most common language,The most common language spoken in the world is English
+Can you help me plan a vacation?,help_request_trip,vacation,help plan vacation,Of course Where would you like to go
+How do you say breakfast in Spanish?,translate_request,Spanish,breakfast in Spanish,Breakfast in Spanish is Desayuno
+What’s the coldest place on Earth?,general_knowledge,place,coldest place on Earth,The coldest place on Earth is Antarctica
+Can you recommend a TV show?,recommendation,TV show,recommend TV show,How about watching Stranger Things
+How do you say chocolate in French?,translate_request,French,chocolate in French,Chocolate in French is Chocolat
+What’s the most populated city?,general_knowledge,city,most populated city,The most populated city in the world is Tokyo
+Can you help me find a book?,help_request_book,book,help find book,Of course What type of book are you looking for
+How do you say father in Spanish?,translate_request,Spanish,father in Spanish,Father in Spanish is Padre
+What’s the oldest city?,general_knowledge,city,oldest city,The oldest continuously inhabited city is Damascus in Syria
+Can you help me write an email?,help_request_email,email,help write email,I’d love to help What’s the email about
+How do you say love in French?,translate_request,French,love in French,Love in French is Amour
+What’s the smallest ocean?,general_knowledge,ocean,smallest ocean,The smallest ocean is the Arctic Ocean
+Can you help me with my homework?,help_request_study,homework,help with homework,Of course What subject is your homework in
+How do you say car in Spanish?,translate_request,Spanish,car in Spanish,Car in Spanish is Coche
+What’s the largest forest?,general_knowledge,forest,largest forest,The largest forest in the world is the Amazon Rainforest
+Can you help me with a project?,help_request_project,None,help with project,I’d be happy to What’s the project about
+How do you say brother in French?,translate_request,French,brother in French,Brother in French is Frère
+What’s the tallest building?,general_knowledge,building,tallest building,The tallest building in the world is the Burj Khalifa in Dubai
+Can you help me find a podcast?,help_request_podcast,podcast,help find podcast,Of course What kind of podcast are you interested in
+How do you say friend in Spanish?,translate_request,Spanish,friend in Spanish,Friend in Spanish is Amigo
+What’s the most expensive painting?,general_knowledge,painting,most expensive painting,The most expensive painting ever sold is Leonardo da Vinci’s Salvator Mundi
+Can you help me learn a language?,help_request_learning,language,help learn language,I’d love to help What language are you learning
+How do you say school in French?,translate_request,French,school in French,School in French is École
+What’s the largest lake?,general_knowledge,lake,largest lake,The largest lake by surface area is the Caspian Sea
+Can you help me choose a gift?,help_request_gift,gift,help choose gift,Of course Who is the gift for
+How do you say water in Spanish?,translate_request,Spanish,water in Spanish,Water in Spanish is Agua
+What’s the brightest star?,general_knowledge,star,brightest star,The brightest star in the night sky is Sirius

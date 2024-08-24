@@ -84,3 +84,93 @@ What is 10 multiplied by 20?,math_question,multiplication,10 multiplied by 20,10
 Can you help me study?,help_request_study,None,help study,Id be happy to help! What subject are you studying?
 What's your favorite animal?,smalltalk_favorites,animal,favorite animal,I think dolphins are pretty amazing!
 How do I fix a flat tire?,help_request_fix,flat tire,fix flat tire,Here is a step-by-step guide to fixing a flat tire: [guide link].
+What is your favorite food?,smalltalk_favorites,food,favorite food,I don’t eat but I hear pizza is quite popular
+Do you like cats or dogs?,smalltalk_favorites,pets,cats or dogs,I like both cats and dogs equally
+What's the time?,query_time,None,time,It is currently [time]
+Tell me something about yourself.,smalltalk_self,None,tell about yourself,I’m an AI assistant here to help you with anything you need
+Where can I find the nearest hospital?,directions_request,hospital,find nearest hospital,I recommend using a map app to find the closest hospital
+How old is the Earth?,general_knowledge,Earth,how old earth,The Earth is about 4.5 billion years old
+Can you sing?,request_music,None,can you sing,I can’t sing but I can help you find music
+What do you like to do?,smalltalk_favorites,None,what do you like,I enjoy helping people with their questions and tasks
+How is the weather?,weather,None,how weather,The weather today is [weather status]
+What's your favorite movie?,smalltalk_favorites,movie,favorite movie,I don’t watch movies but I’ve heard Inception is a good one
+Can you help me with my homework?,help_request_homework,homework,help homework,I’d be happy to help What subject are you working on
+What's the square root of 144?,math_question,144,square root 144,The square root of 144 is 12
+Do you have a hobby?,smalltalk_favorites,hobby,your hobby,Helping you is my hobby
+What is the speed of sound?,general_knowledge,sound,speed of sound,The speed of sound is about 343 meters per second in air
+Can you tell me a scary story?,request_story,scary,tell scary story,Once upon a time in a dark forest there was a mysterious figure that
+Where do you live?,smalltalk_self,location,where do you live,I live in the cloud accessible from anywhere
+How do you cook pasta?,help_request_cooking,pasta,cook pasta,Boil water add pasta and cook until tender then drain and serve
+What's your favorite book?,smalltalk_favorites,book,favorite book,I think many people enjoy reading Harry Potter
+Can you help me find a job?,help_request_job_search,job,help find job,I can offer tips and resources for job searching
+What's 2 plus 2?,math_question,addition,2 plus 2,2 plus 2 is 4
+How can I improve my memory?,help_request_memory,memory,improve memory,Practice regularly get enough sleep and eat healthy
+What time does the sun set?,query_time_sunset,sunset,time sun set,The sun sets at [sunset time] today
+Can you drive?,smalltalk_ability,drive,can you drive,I can’t drive but I can help you find directions
+What's your favorite sport?,smalltalk_favorites,sport,favorite sport,I don’t play sports but football seems to be very popular
+How tall are you?,smalltalk_self,height,how tall,I don’t have a physical form so I don’t have height
+Can you help me plan a trip?,help_request_trip,trip,help plan trip,Of course where would you like to go
+What is your favorite song?,smalltalk_favorites,song,favorite song,I don’t listen to music but I’ve heard Bohemian Rhapsody is a classic
+Do you believe in ghosts?,smalltalk_belief,ghosts,believe ghosts,I don’t have beliefs but I know some people do
+Can you solve a Rubik's cube?,smalltalk_ability,Rubik's cube,solve rubik's cube,I can guide you through the steps if you want
+What's your favorite color?,smalltalk_favorites,color,favorite color,I don’t have a favorite color but I think blue is calming
+Can you make me laugh?,request_joke,None,make me laugh,I’ll try How about a joke What do you call a fake noodle An impasta
+What's your favorite animal?,smalltalk_favorites,animal,favorite animal,I think dolphins are pretty amazing
+Can you tell me a fun fact?,fun_fact,None,tell fun fact,Did you know that octopuses have three hearts
+Where is the nearest coffee shop?,directions_request,coffee shop,nearest coffee shop,I suggest using a map app to find the closest coffee shop
+What's the capital of Japan?,general_knowledge,Japan,capital Japan,The capital of Japan is Tokyo
+How do you feel?,smalltalk,None,how do you feel,I don’t have feelings but I’m here to help you
+What is the largest ocean?,general_knowledge,ocean,largest ocean,The largest ocean is the Pacific Ocean
+Do you like chocolate?,smalltalk_favorites,chocolate,like chocolate,I think chocolate is a popular treat
+Can you do math?,smalltalk_ability,math,do math,I’m pretty good at math try asking me a question
+What day is it?,query_day,None,what day,Today is [day]
+What is your favorite TV show?,smalltalk_favorites,TV show,favorite TV show,I don’t watch TV but I’ve heard Friends is a classic
+Can you help me with science?,help_request_study,science,help with science,Of course what topic are you studying
+What is the smallest planet?,general_knowledge,planet,smallest planet,The smallest planet in our solar system is Mercury
+Do you like summer or winter?,smalltalk_favorites,season,like summer or winter,I don’t experience seasons but I know each has its charm
+Can you write a poem?,request_poem,None,write poem,Here’s a quick one Roses are red violets are blue I’m here to help you whenever you’re blue
+What's your favorite holiday?,smalltalk_favorites,holiday,favorite holiday,I don’t take holidays but I know many people enjoy Christmas
+Can you solve this puzzle?,request_puzzle,None,solve puzzle,I can try Show me the puzzle
+How can I stay healthy?,help_request_health,health,stay healthy,Exercise regularly eat a balanced diet and get plenty of sleep
+Can you speak other languages?,language_ability,None,speak other languages,I can translate many languages what do you need
+What's your favorite drink?,smalltalk_favorites,drink,favorite drink,I don’t drink but water is essential for life
+How do you say goodbye in French?,translate_request,French,goodbye in French,Goodbye in French is Au revoir
+Can you help me with my resume?,help_request_job,resume,help with resume,I can provide tips on how to improve your resume
+What's your favorite season?,smalltalk_favorites,season,favorite season,I don’t experience seasons but many people love spring
+Can you give me a compliment?,request_compliment,None,give compliment,You’re doing great Keep up the good work
+What is the speed of light?,general_knowledge,speed of light,speed of light,The speed of light is about 299792 kilometers per second
+Can you make a phone call?,call_request,None,make phone call,I can’t make calls but I can remind you to call someone
+What's your favorite hobby?,smalltalk_favorites,hobby,favorite hobby,Helping you is my hobby
+How do you say thank you in Spanish?,translate_request,Spanish,thank you in Spanish,Thank you in Spanish is Gracias
+What is your favorite food?,smalltalk_favorites,food,favorite food,I don’t eat but I hear pizza is quite popular
+Can you play a song?,request_music,None,play song,I can’t play music but I can suggest some great songs
+How old is the universe?,general_knowledge,universe,how old universe,The universe is estimated to be around 13.8 billion years old
+Can you tell me a joke?,request_joke,None,tell joke,Sure Why did the scarecrow win an award Because he was outstanding in his field
+What is the meaning of life?,philosophy,None,meaning of life,That’s a big question What do you think it is
+How do you say hello in Japanese?,translate_request,Japanese,hello in Japanese,Hello in Japanese is Konnichiwa
+Can you teach me something new?,help_request_teach,None,teach something new,I’d love to What would you like to learn about
+What’s the tallest building in the world?,general_knowledge,building,tallest building,The tallest building in the world is the Burj Khalifa in Dubai
+Can you recommend a good book?,recommendation,book,recommend good book,How about reading The Great Gatsby by F Scott Fitzgerald
+What is the meaning of your name?,smalltalk_self,meaning,name meaning,My name reflects my purpose which is to assist you
+How do I solve this math problem?,math_request,problem,solve math problem,Please share the problem you’re working on and I’ll help you solve it
+Do you have a favorite place?,smalltalk_favorites,place,favorite place,I don’t have a physical location but I think the beach sounds nice
+Can you dance?,smalltalk_ability,dance,can you dance,I can’t dance but I can find you some great dance music
+What’s your favorite thing to do?,smalltalk_favorites,activity,favorite thing to do,Helping you is my favorite thing to do
+How do you say good night in French?,translate_request,French,good night in French,Good night in French is Bonne nuit
+Can you help me with a project?,help_request_project,project,help with project,Of course What’s the project about
+What’s the distance to the sun?,general_knowledge,sun,distance to sun,The distance to the sun is about 93 million miles or 150 million kilometers
+What’s your favorite ice cream flavor?,smalltalk_favorites,ice cream,favorite ice cream flavor,I don’t eat but many people love vanilla
+Can you tell me a riddle?,request_riddle,None,tell riddle,Sure What has to be broken before you can use it An egg
+How do you say I love you in Spanish?,translate_request,Spanish,I love you in Spanish,I love you in Spanish is Te quiero
+What’s your favorite app?,smalltalk_favorites,app,favorite app,I don’t use apps but many people love social media apps
+Can you help me with English?,help_request_study,English,help with English,I’d be happy to What are you studying in English
+What’s your favorite website?,smalltalk_favorites,website,favorite website,I don’t browse the web but I know many people enjoy using Google
+Can you help me with a problem?,help_request_problem,None,help with problem,Of course What problem do you need help with
+How do I get to the nearest park?,directions_request,park,get to nearest park,I recommend using a map app to find the nearest park
+Can you recommend a podcast?,recommendation_podcast,None,recommend podcast,How about listening to TED Talks Daily
+What's your favorite word?,smalltalk_favorites,word,favorite word,I think kindness is a beautiful word
+Can you remind me to take a break?,set_reminder,break,remind to take break,I’ll remind you to take a break in [time]
+What is the biggest country in the world?,general_knowledge,country,biggest country,The biggest country in the world by land area is Russia
+How do you say please in French?,translate_request,French,please in French,Please in French is S’il vous plaît
+What is the best way to learn?,help_request_learning,learning,best way to learn,Practice consistently ask questions and review your progress
+Can you help me with my schedule?,help_request_schedule,schedule,help with schedule,I’d be happy to What do you need to schedule

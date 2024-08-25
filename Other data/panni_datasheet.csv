@@ -1,5 +1,12 @@
 user_utterances,intend,entity,processed_utterances,bot_responses
 hello!,greeting,None,hello,hi
+hello,greeting,None,hello,hi
+Hello!,greeting,None,hello,hi
+Hello,greeting,None,hello,hi
+hello!,greeting,None,hello,hi
+hello!,greeting,None,hello,hi
+hello!,greeting,None,hello,hi
+hello!,greeting,None,hello,hi
 Hello how are you?,greeting,None,hello how you,I am fine!
 Can you play music?,play_music,None,play music,Yes I can play music
 What time is it?,query_time,None,what time,It is your time now!

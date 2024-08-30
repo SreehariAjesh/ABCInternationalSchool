@@ -31,9 +31,19 @@ what is your name?,greeting_name,Name,name,My name is Panni AI your personal ass
 What Is Your Name?,greeting_name,Name,name,My name is Panni AI your personal assistant
 WHAT IS YOUR NAME?,greeting_name,Name,name,My name is Panni AI your personal assistant
 what is your name,greeting_name,Name,name,My name is Panni AI your personal assistant
-What is your name,greeting_name,Name,name,My name is Panni AI your personal assistantWhat can you do?,greeting_self_feature,None,can do,I can do many things
+What is your name,greeting_name,Name,name,My name is Panni AI your personal assistant
 What Is Your Name?,greeting_name,Name,name,My name is Panni AI your personal assistant
+Good Morning,greeting,None,good morning,Good morning! How can I assist you? 
 Good Morning,greeting,None,good morning,Good morning! How can I assist you?
+Good Morning,greeting,None,good morning,Good morning! How can I assist you? 
+good morning,greeting,None,good morning,Good morning! How can I assist you?
+GOOD MORNING,greeting,None,good morning,Good morning! How can I assist you?
+Hi!,greeting,None,hi,Hello! How can I help you today?
+Hi!,greeting,None,hi,Hello! How can I help you today?
+Hi!,greeting,None,hi,Hello! How can I help you today?
+Hi!,greeting,None,hi,Hello! How can I help you today?
+Hi!,greeting,None,hi,Hello! How can I help you today?
+Hi!,greeting,None,hi,Hello! How can I help you today?
 See you later,farewell,None,see you later,Goodbye! Talk to you soon.
 What is the weather like today?,weather,today,weather today,The weather is currently [weather status].
 Set a 5-minute timer.,set_timer,time:5 minutes,set 5 minute timer,Timer set for 5 minutes.

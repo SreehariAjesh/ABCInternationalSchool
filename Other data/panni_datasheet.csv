@@ -40,8 +40,19 @@ Set a 5-minute timer.,set_timer,time:5 minutes,set 5 minute timer,Timer set for 
 Tell me about the latest news.,news,None,latest news,Here are the top headlines for today.
 What is the capital of France?,general_knowledge,France,capital france,The capital of France is Paris.
 How are you doing?,smalltalk,None,how you doing,I’m just a bunch of code but I’m doing great!
+Bye!,farewell,None,bye,Goodbye! Have a great day. 
+Bye!,farewell,None,bye,Goodbye! Have a great day.
+bye!,farewell,None,bye,Goodbye! Have a great day.
+BYE!,farewell,None,bye,Goodbye! Have a great day.
 Bye,farewell,None,bye,Goodbye! Have a great day.
-Hi!,greeting,None,hi,Hello! How can I help you today?
+bye,farewell,None,bye,Goodbye! Have a great day.
+Bye,farewell,None,bye,Goodbye! Have a great day.
+Hi!,greeting,None,hi,Hello! How can I help you today? 
+HI!,greeting,None,hi,Hello! How can I help you today?
+hi!,greeting,None,hi,Hello! How can I help you today?
+Hi,greeting,None,hi,Hello! How can I help you today?
+HI,greeting,None,hi,Hello! How can I help you today?
+hi,greeting,None,hi,Hello! How can I help you today?
 What's up?,smalltalk,None,whats up,Not much just here to assist you!
 Help me out.,help_request,None,help out,Sure! What do you need help with?
 I'm bored.,request_joke,None,bored,How about I tell you a joke?

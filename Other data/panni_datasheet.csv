@@ -1,4 +1,4 @@
-user_utterances,intend,entity,processed_utterances,bot_responses
+user_utterances,intent,entity,processed_utterances,bot_responses
 hello!,greeting,None,hello,hi
 hello,greeting,None,hello,hi
 Hello!,greeting,None,hello,hi

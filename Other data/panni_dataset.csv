@@ -7,6 +7,14 @@ hello!,greeting,None,hello,hi
 hello!,greeting,None,hello,hi
 hello!,greeting,None,hello,hi
 hello!,greeting,None,hello,hi 
+Are you fine?,greeting,None,hello how you,I am fine! 
+Are you fine,greeting,None,hello how you,I am fine! 
+Are You Fine?,greeting,None,hello how you,I am fine! 
+Are You Fine,greeting,None,hello how you,I am fine! 
+are you fine?,greeting,None,hello how you,I am fine! 
+are you fine,greeting,None,hello how you,I am fine! 
+ARE YOU FINE?,greeting,None,hello how you,I am fine! 
+ARE YOU FINE,greeting,None,hello how you,I am fine! 
 how are you?,greeting,None,hello how you,I am fine! 
 how are you,greeting,None,hello how you,I am fine!
 how are you?,greeting,None,hello how you,I am fine!

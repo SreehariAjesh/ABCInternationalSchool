@@ -6,7 +6,23 @@ Hello,greeting,None,hello,hi
 hello!,greeting,None,hello,hi
 hello!,greeting,None,hello,hi
 hello!,greeting,None,hello,hi
-hello!,greeting,None,hello,hi
+hello!,greeting,None,hello,hi 
+how are you?,greeting,None,hello how you,I am fine! 
+how are you,greeting,None,hello how you,I am fine!
+how are you?,greeting,None,hello how you,I am fine!
+how are you,greeting,None,hello how you,I am fine!
+How Are You?,greeting,None,hello how you,I am fine!
+How Are You,greeting,None,hello how you,I am fine!
+How Are You?,greeting,None,hello how you,I am fine!
+How Are You,greeting,None,hello how you,I am fine!
+HOW ARE YOU?,greeting,None,hello how you,I am fine!
+HOW ARE YOU?,greeting,None,hello how you,I am fine!
+HOW ARE YOU,greeting,None,hello how you,I am fine!
+HOW ARE YOU,greeting,None,hello how you,I am fine!
+how are you?,greeting,None,hello how you,I am fine!
+how are you?,greeting,None,hello how you,I am fine!
+how are you,greeting,None,hello how you,I am fine!
+how are you,greeting,None,hello how you,I am fine!
 Hello! how are you?,greeting,None,hello how you,I am fine! 
 Hello how are you,greeting,None,hello how you,I am fine!
 Hello how are you?,greeting,None,hello how you,I am fine!
